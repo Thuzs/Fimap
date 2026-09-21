@@ -26,6 +26,6 @@ Abaixo estão os links de acesso rápido para os documentos de requisitos, plane
 
 ## 🧑‍🎓 Autoria
 
-* **Equipe:** [Arthur](https://github.com/Thuzs), [Murilo](https://github.com/Murilo-Antunes), [Hugo](https://github.com/Guhhxz)
+* **Equipe:** [Arthur](https://github.com/Thuzs), [Murilo](https://github.com/Murilo-Antunes), [Hugo](https://github.com/Guhhxz), [Pedro](https://github.com/pedrorodriguesdev)
 * **Orientadores:** [Prof.Leonid](https://github.com/fernandoleonid), [Prof.Marcel]() e [Prof.João]()
 * **Instituição:** [Senai] - Curso de Desenvolvimento de sistemas

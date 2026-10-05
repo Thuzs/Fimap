@@ -15,6 +15,7 @@ Abaixo estão os links de acesso rápido para os documentos de requisitos, plane
 * 🔗 **[Requisitos Funcionais](https://docs.google.com/document/d/14yVumIdsQ9BdmwzZstf8ka7flUwIH5oX/edit?usp=sharing&ouid=106577692142462691391&rtpof=true&sd=true)**
 * 🔗 **[Requisitos Não Funcionais](https://docs.google.com/document/d/1N2HAioVkY6YqSe5BItpo7UpseXKgebejmkF3y4f2tL8/edit?usp=sharing)**
 
+### 📋 Swagger
 * 🔗 **[Swagger]()**
 
 ### 🎯 Planejamento

@@ -26,6 +26,9 @@ Abaixo estão os links de acesso rápido para os documentos de requisitos, plane
 * 🔗 **[Repositório: Back-end FIMAP](https://github.com/Guhhxz/Back-end-FIMAP)**
 * 🔗 **[Swagger](https://app.swaggerhub.com/apis/asd-1e6/fimap-api/3.0.0)**
 
+### 🎨 Protótipo
+* 🔗 **[Figma - Protótipo](https://www.figma.com/design/n9xy7RJBfoPaCrBypary09/FIMAP?node-id=0-1&t=TCJwFEc0mMgeu5Zw-1)**
+
 ### 🧪 Testes
 * 🔗 **[Plano / Documento de Testes](https://drive.google.com/drive/folders/13d5K0VUlFKNwP62hLj8w9BEgiCKD2Qti?usp=sharing)**
 

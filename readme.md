@@ -78,6 +78,7 @@ O diferencial do FIMAP é a **ação e a imparcialidade**: não apenas mostramos
 
 | Etapa do Projeto | Links de Acesso |
 |------------------|-----------------|
+| **Apresentação** | [🎥 Vídeo Pitch (YouTube)](https://youtu.be/YeN4mqBlzFU?is=_0U_wnZlS1qhq6Hw) |
 | **Requisitos** | [RN](https://docs.google.com/document/d/1Rcx7Q1sOhEdZ10WHrPW59SdkeK7YQWoIa-DzfcK6B-o/edit?usp=sharing) • [RF](https://docs.google.com/document/d/14yVumIdsQ9BdmwzZstf8ka7flUwIH5oX/edit?usp=sharing&ouid=106577692142462691391&rtpof=true&sd=true) • [RNF](https://docs.google.com/document/d/1N2HAioVkY6YqSe5BItpo7UpseXKgebejmkF3y4f2tL8/edit?usp=sharing) |
 | **Planejamento** | [TAP - Termo de Abertura (Miro)](https://miro.com/app/board/uXjVHpa3Jh4=/?share_link_id=523195214914) |
 | **Modelagem de Dados** | [Modelo Conceitual](https://drive.google.com/drive/folders/1YK91x_gYVm27MBjn0p-XSy6qQ9UA_YxE?usp=sharing) • [Modelo Lógico](https://drive.google.com/drive/folders/1WQaGQ_0MAAIlf1oeLUtf_6N3eM9PGQWn?usp=sharing) |
